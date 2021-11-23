@@ -14,7 +14,7 @@ allprojects {
 In your Gradle Module Application
 ```
 dependencies {
-    implementation 'com.github.elfer07:ZoomImageAndroid:Tag' 
+    implementation 'com.github.elfer07:TouchZoomImageAndroid:1.0' 
 }
 ```
 

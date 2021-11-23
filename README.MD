@@ -5,10 +5,10 @@ With this library you are able to apply zoom to an image.
 In your gradle project
 ```gradle
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+    repositories {
+        ...
+		maven { url 'https://jitpack.io' }
+	}
 }
 ```
 In your Gradle Module Application

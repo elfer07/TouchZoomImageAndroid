@@ -18,6 +18,16 @@ dependencies {
 }
 ```
 
+How to use
+```
+<ar.elfer07.touchzoomimageview.TouchImageZoomView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:src="@drawable/YOUR_IMAGE"/>
+```
+
+Also from Activity Class with a lot of function.
+
 # Screenshots
 
 ![Screenshot](screen.png)

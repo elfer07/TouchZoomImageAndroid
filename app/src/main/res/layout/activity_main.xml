@@ -7,6 +7,7 @@
     tools:context=".MainActivity">
 
     <ar.elfer07.touchzoomimageview.TouchImageZoomView
+        android:id="@+id/touch_image_zoom_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:src="@drawable/toronto"
